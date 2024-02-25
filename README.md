@@ -1,17 +1,30 @@
-### Site Settings ###
-title               : Yash Rathod
-description         : >
-                      Design Engineer  :computer:  Loves to build,
-                      Sometimes Does Photography :camera:
-                      Dabbled into coding.
-baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-#repository          : yashraw/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-#remote_theme        : yashraw/portfolYOU
+### Ronak Mistry ###
 
+# Passionate Mechanical Engineer with a strong background in design and quality control, specializing in the optimization of manufacturing processes. With a solid foundation as a mechanical engineering graduate and two years of industry experience, I am driven by a relentless pursuit of excellence in both design and manufacturing.
 
-### Plugins ###
-plugins:
-  - jemoji
+Power Bus Way Ltd Brampton, ON   
+Junior Mechanical Engineer April 2023 – present
+
+• Interpret mechanical design drawings and specifications.
+• Use Autodesk Inventor to create and modify design drawings.
+• Generate models within 3D workspace.
+• Create/modify 2D & 3D drawings.
+• Work with 3D scans and point cloud models
+• Prepare product layout and approval drawings.
+• Ensure standard design and drawing procedures are followed.
+• Prepare component manufacturing drawings for production.
+• Prepare installation manuals and arrangement drawings.
+• Follow projects through manufacturing processes ensuring proper production and assembly of
+components.
+• Provide manufacturing and assembly input.
+• Provide input to the design of product prototypes and final product designs.
+• Perform additional duties as required.
+• Prepare and interpret conventional and computer-assisted design (CAD) engineering designs, drawings,
+and specifications for machines and components, power transmission systems, process piping, heating,
+ventilating and air conditioning systems
+• Prepare cost and material estimates, project schedules and reports
+• Conduct tests and analyses of machines, components, and materials to determine their performance,
+strength, response to stress and other characteristics
 
 
 ### Navbar Settings ###
